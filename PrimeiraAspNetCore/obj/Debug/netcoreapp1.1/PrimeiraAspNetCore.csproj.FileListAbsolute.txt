@@ -7,3 +7,12 @@ C:\Users\Acesnof\Documents\Visual Studio 2017\Projects\PrimeiraAspNetCore\Primei
 C:\Users\Acesnof\Documents\Visual Studio 2017\Projects\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.AssemblyInfo.cs
 C:\Users\Acesnof\Documents\Visual Studio 2017\Projects\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.dll
 C:\Users\Acesnof\Documents\Visual Studio 2017\Projects\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.pdb
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\bin\Debug\netcoreapp1.1\PrimeiraAspNetCore.deps.json
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\bin\Debug\netcoreapp1.1\PrimeiraAspNetCore.runtimeconfig.json
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\bin\Debug\netcoreapp1.1\PrimeiraAspNetCore.runtimeconfig.dev.json
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\bin\Debug\netcoreapp1.1\PrimeiraAspNetCore.dll
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\bin\Debug\netcoreapp1.1\PrimeiraAspNetCore.pdb
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.csprojResolveAssemblyReference.cache
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.AssemblyInfo.cs
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.dll
+C:\git\PrimeiraAspNetCore\PrimeiraAspNetCore\obj\Debug\netcoreapp1.1\PrimeiraAspNetCore.pdb
